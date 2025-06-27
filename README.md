@@ -15,14 +15,10 @@
 <div align="center">
   <p style="display: flex; justify-content: center; gap: 20px; align-items: center;">
     <a href="https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN">
-      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
-           alt="Download on the App Store" 
-           style="height: 60px; object-fit: contain;">
+    <img style="height: 83px; width: 200px" alt='Get it on Google Play' src='https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png'/>
     </a>
     <a href="https://apps.apple.com/in/app/shoorah-mental-health/id1669683359">
-      <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=1x" 
-           alt="Download on the App Store" 
-           style="height: 60px; object-fit: contain;">
+  <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=200x83&amp;releaseDate=1555027200" alt="Download on the App Store" style="border-radius: 13px; width: 180px; height: 83px;">
     </a>
   </p>
 </div>
