@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/38/ef/e038efb8-7c20-c804-ce7f-909f0cf3eb33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="120" alt="Shoorah App Logo" />
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/38/ef/e038efb8-7c20-c804-ce7f-909f0cf3eb33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="120" style="border-radius: 20px;" alt="Shoorah App Logo" />
 </p>
 
 <h1 align="center">🌿 Shoorah – Mental Health & Wellbeing App</h1>
@@ -68,7 +68,7 @@ Take self-assessments like the **Social Anxiety Test** to better understand your
 | Platform       | Rating      | Downloads       |
 |----------------|-------------|------------------|
 | 📱 **Apple App Store** | ⭐️⭐️⭐️⭐️⭐️ (5.0) | Thousands of users |
-| 📱 **Google Play Store** | ⭐️⭐️⭐️⭐️ (3.7) | 10,000+ downloads |
+| 📱 **Google Play Store** | ⭐️⭐️⭐️⭐ (3.7) | 10,000+ downloads |
 
 ---
 
