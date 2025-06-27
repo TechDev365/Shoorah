@@ -6,25 +6,27 @@
 
 <p align="center"><em>"Calm mind brings inner strength and self-confidence."</em></p>
 
-[![Watch Shoorah App Demo](https://img.youtube.com/vi/5fkQVwUMNug/0.jpg)](https://www.youtube.com/watch?v=5fkQVwUMNug)
-
-
+![Shoorah Image](https://shoorah.io/wp-content/uploads/2024/08/Untitled-design-3-1.jpg.webp)
 
 ---
 
 ### 🔽 Available on Your Favorite Platform
 
 <div align="center">
-
-<a href="https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1" target="_blank">
-  <img src="https://img.shields.io/badge/Download-Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Badge">
-</a>
-
-<a href="https://apps.apple.com/in/app/shoorah-mental-health/id1669683359" target="_blank">
-  <img src="https://img.shields.io/badge/Download-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Badge">
-</a>
-
+  <p style="display: flex; justify-content: center; gap: 20px; align-items: center;">
+    <a href="https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN">
+      <img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" 
+           alt="Download on the App Store" 
+           style="height: 60px; object-fit: contain;">
+    </a>
+    <a href="https://apps.apple.com/in/app/shoorah-mental-health/id1669683359">
+      <img src="https://tools.applemediaservices.com/api/badges/download-on-the-app-store/black/en-us?size=1x" 
+           alt="Download on the App Store" 
+           style="height: 60px; object-fit: contain;">
+    </a>
+  </p>
 </div>
+
 ---
 
 ## ✨ Features Overview
