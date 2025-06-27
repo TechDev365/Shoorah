@@ -1,43 +1,47 @@
-# 🌿 Shoorah – Mental Health & Wellbeing App
+<p align="center">
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/38/ef/e038efb8-7c20-c804-ce7f-909f0cf3eb33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="120" alt="Shoorah App Logo" />
+</p>
 
-> *"You can't pour from an empty cup — take care of yourself first."*
+<h1 align="center">🌿 Shoorah – Mental Health & Wellbeing App</h1>
 
-**Shoorah** is your personal sanctuary for self-growth, emotional balance, and mindfulness. Designed to help you **discover, understand, and embrace your best self**, Shoorah empowers users with modern mental wellness tools in a calm, elegant interface.
+<p align="center"><em>"You can't pour from an empty cup — take care of yourself first."</em></p>
+
+<p align="center">
+  <strong>Empowering minds. Elevating lives.</strong><br/>
+  <a href="https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1"><img src="https://img.shields.io/badge/Google%20Play-10K%2B%20Downloads-green?style=flat&logo=google-play" alt="Google Play Downloads"></a>
+  <a href="https://apps.apple.com/in/app/shoorah-mental-health/id1669683359"><img src="https://img.shields.io/badge/App%20Store-5★%20Rated-blue?style=flat&logo=apple" alt="App Store Rating"></a>
+</p>
 
 ---
 
-## 📱 Available On
+## 📱 Download Shoorah
 
-- 🔗 [Google Play Store](https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1)
-- 🔗 [Apple App Store](https://apps.apple.com/in/app/shoorah-mental-health/id1669683359)
+- 🔗 [**Google Play** – 3.7★ rating, 10,000+ downloads](https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1)  
+- 🔗 [**Apple App Store** – 5.0★ rating](https://apps.apple.com/in/app/shoorah-mental-health/id1669683359)
 
 ---
 
-## ✨ Features
+## ✨ Features Overview
 
-### 🧘‍♀️ **Discover Yourself**
-Empowering self-development tools to help you embrace your best self:
-- Gratitude journaling
-- Affirmation practice
-- Goal tracking
-- Mind cleansing exercises
+### 🧘‍♀️ Discover Yourself
+Empowering self-development tools to help you embrace your best self.
 
 ![Self Development](https://play-lh.googleusercontent.com/Xihavky1P8DZoF54zuKrRl-B5Ow3h8xPfoRxa_jKzlQaqzJxgA5T6PFO1p6B8MX2_IQ=w526-h296-rw)
 
 ---
 
-### 🎧 **Calm Your Mind**
-Reduce stress and anxiety with our **extensive audio library** featuring:
+### 🎧 Calm Your Mind
+Reduce stress and anxiety with a premium **audio library** including:
 - Guided meditations
-- Breathing sessions
-- Soothing sounds and affirmations
+- Breathwork
+- Sleep sounds
 
 ![Calm Your Mind](https://play-lh.googleusercontent.com/yPO8A3VAp2cH1fg5YShJ3Oblwdrsl4TGj8t9hsqlmPzsyWRQ7U2mxkEP_3701nOD-ts=w526-h296-rw)
 
 ---
 
-### 🌞 **Daily Motivation**
-Start your mornings with uplifting thoughts and positive intentions.
+### 🌞 Daily Motivation
+Start every day with powerfully uplifting affirmations like:
 
 > *"I am grateful for my life."*
 
@@ -45,52 +49,59 @@ Start your mornings with uplifting thoughts and positive intentions.
 
 ---
 
-### 👤 **All About You**
-Track your emotional well-being, thoughts, and personal growth:
-- Personalized dashboard
-- Daily insights and thoughts
-- Focus themes (e.g., Self-Love, Mindfulness, Focus)
+### 👤 All About You
+A personal dashboard that reflects your growth and emotional patterns.
 
 ![User Profile](https://play-lh.googleusercontent.com/gPKaGXu-3sul5rTC8CzXB0yooX7CAfBPO4FE-7L9cW7zOcuWLr0MDiOBE2-JrFbW6ew=w526-h296-rw)
 
 ---
 
-### 🧠 **Understand Yourself**
-Take insightful self-assessments like:
-- Social Anxiety Test
-- Mood Check-Ins
-- Mental Clarity Surveys
+### 🧠 Understand Yourself
+Take self-assessments like the **Social Anxiety Test** to better understand your emotional state.
 
-![Self Assessments](https://play-lh.googleusercontent.com/AogXfOR_ALKnNmFqF8ShibAzbROo2JL7dkrzKE04MW7svlamLkrpNvfP-5947cPEFuA1=w526-h296-rw)
+![Self Assessment](https://play-lh.googleusercontent.com/AogXfOR_ALKnNmFqF8ShibAzbROo2JL7dkrzKE04MW7svlamLkrpNvfP-5947cPEFuA1=w526-h296-rw)
 
 ---
 
-## 🔍 Why Shoorah?
+## ⭐ App Stats
 
-> *“Mental health is not a destination, but a process. It's about how you drive, not where you're going.”*
+| Platform       | Rating      | Downloads       |
+|----------------|-------------|------------------|
+| 📱 **Apple App Store** | ⭐️⭐️⭐️⭐️⭐️ (5.0) | Thousands of users |
+| 📱 **Google Play Store** | ⭐️⭐️⭐️⭐️ (3.7) | 10,000+ downloads |
 
-Shoorah helps you:
-- Build sustainable daily habits
-- Learn the language of your emotions
-- Improve focus and clarity
-- Build gratitude and self-awareness
+---
+
+## 🔍 Why Choose Shoorah?
+
+> *“Mental health is not a destination, but a journey — Shoorah walks with you.”*
+
+- ✔ Daily gratitude and mindfulness practices
+- ✔ A soothing design that encourages calm and focus
+- ✔ Personalized insights and check-ins
+- ✔ Scientifically crafted audio sessions
 
 ---
 
 ## 🌐 Connect With Us
 
-- 💬 **Website:** [shoorah.app](https://www.shoorah.app)
-- 📱 **Instagram:** [@shoorahofficial](https://instagram.com/shoorahofficial)
-- 📧 **Support:** support@shoorah.app
+- 🔗 **Website**: [shoorah.app](https://www.shoorah.app)
+- 📱 **Instagram**: [@shoorahofficial](https://instagram.com/shoorahofficial)
+- 📧 **Support**: support@shoorah.app
 
 ---
 
-## 💡 Final Words
+## 💡 Final Note
 
-> *“Your mental space deserves peace. Let Shoorah be your guide to a calmer, more fulfilled you.”*
+> *“Your peace of mind is the foundation for everything else. Shoorah helps you build it.”*
+
+Make space for your wellbeing.  
+Make time for your growth.  
+Make **Shoorah** your daily companion.
 
 ---
 
 ## ✅ License
 
-This project is licensed and protected. All rights reserved to Shoorah Inc.
+This project is protected by copyright and intellectual property rights. All rights reserved © Shoorah Inc.
+
