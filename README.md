@@ -2,23 +2,29 @@
   <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/e0/38/ef/e038efb8-7c20-c804-ce7f-909f0cf3eb33/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/230x0w.webp" width="120" style="border-radius: 20px;" alt="Shoorah App Logo" />
 </p>
 
-<h1 align="center">🌿 Shoorah – Mental Health & Wellbeing App</h1>
+<h1 align="center">🌿 Shoorah – Mental Health & Calm</h1>
 
-<p align="center"><em>"You can't pour from an empty cup — take care of yourself first."</em></p>
+<p align="center"><em>"Calm mind brings inner strength and self-confidence."</em></p>
 
-<p align="center">
-  <strong>Empowering minds. Elevating lives.</strong><br/>
-  <a href="https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1"><img src="https://img.shields.io/badge/Google%20Play-10K%2B%20Downloads-green?style=flat&logo=google-play" alt="Google Play Downloads"></a>
-  <a href="https://apps.apple.com/in/app/shoorah-mental-health/id1669683359"><img src="https://img.shields.io/badge/App%20Store-5★%20Rated-blue?style=flat&logo=apple" alt="App Store Rating"></a>
-</p>
+[![Watch Shoorah App Demo](https://img.youtube.com/vi/5fkQVwUMNug/0.jpg)](https://www.youtube.com/watch?v=5fkQVwUMNug)
+
+
 
 ---
 
-## 📱 Download Shoorah
+### 🔽 Available on Your Favorite Platform
 
-- 🔗 [**Google Play** – 3.7★ rating, 10,000+ downloads](https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1)  
-- 🔗 [**Apple App Store** – 5.0★ rating](https://apps.apple.com/in/app/shoorah-mental-health/id1669683359)
+<div align="center">
 
+<a href="https://play.google.com/store/apps/details?id=com.shoorah&hl=en_IN&pli=1" target="_blank">
+  <img src="https://img.shields.io/badge/Download-Google_Play-3DDC84?style=for-the-badge&logo=google-play&logoColor=white" alt="Google Play Badge">
+</a>
+
+<a href="https://apps.apple.com/in/app/shoorah-mental-health/id1669683359" target="_blank">
+  <img src="https://img.shields.io/badge/Download-App_Store-000000?style=for-the-badge&logo=apple&logoColor=white" alt="App Store Badge">
+</a>
+
+</div>
 ---
 
 ## ✨ Features Overview
