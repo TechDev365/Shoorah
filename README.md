@@ -1,3 +1,9 @@
+# 🌿 Shoorah – Mental Health & Wellbeing App
+
+> *"You can't pour from an empty cup — take care of yourself first."*
+
+**Shoorah** is your personal sanctuary for self-growth, emotional balance, and mindfulness. Designed to help you **discover, understand, and embrace your best self**, Shoorah empowers users with modern mental wellness tools in a calm, elegant interface.
+
 ---
 
 ## 📱 Available On
@@ -16,7 +22,7 @@ Empowering self-development tools to help you embrace your best self:
 - Goal tracking
 - Mind cleansing exercises
 
-![Self Development](./assets/self_development.png)
+![Self Development](https://play-lh.googleusercontent.com/Xihavky1P8DZoF54zuKrRl-B5Ow3h8xPfoRxa_jKzlQaqzJxgA5T6PFO1p6B8MX2_IQ=w526-h296-rw)
 
 ---
 
@@ -26,7 +32,7 @@ Reduce stress and anxiety with our **extensive audio library** featuring:
 - Breathing sessions
 - Soothing sounds and affirmations
 
-![Calm Your Mind](./assets/calm_mind.png)
+![Calm Your Mind](https://play-lh.googleusercontent.com/yPO8A3VAp2cH1fg5YShJ3Oblwdrsl4TGj8t9hsqlmPzsyWRQ7U2mxkEP_3701nOD-ts=w526-h296-rw)
 
 ---
 
@@ -35,7 +41,7 @@ Start your mornings with uplifting thoughts and positive intentions.
 
 > *"I am grateful for my life."*
 
-![Daily Motivation](./assets/daily_motivation.png)
+![Daily Motivation](https://play-lh.googleusercontent.com/gPKaGXu-3sul5rTC8CzXB0yooX7CAfBPO4FE-7L9cW7zOcuWLr0MDiOBE2-JrFbW6ew=w526-h296-rw)
 
 ---
 
@@ -45,7 +51,7 @@ Track your emotional well-being, thoughts, and personal growth:
 - Daily insights and thoughts
 - Focus themes (e.g., Self-Love, Mindfulness, Focus)
 
-![User Profile](./assets/user_dashboard.png)
+![User Profile](https://play-lh.googleusercontent.com/gPKaGXu-3sul5rTC8CzXB0yooX7CAfBPO4FE-7L9cW7zOcuWLr0MDiOBE2-JrFbW6ew=w526-h296-rw)
 
 ---
 
@@ -55,7 +61,7 @@ Take insightful self-assessments like:
 - Mood Check-Ins
 - Mental Clarity Surveys
 
-![Assessments](./assets/self_assessment.png)
+![Self Assessments](https://play-lh.googleusercontent.com/AogXfOR_ALKnNmFqF8ShibAzbROo2JL7dkrzKE04MW7svlamLkrpNvfP-5947cPEFuA1=w526-h296-rw)
 
 ---
 
@@ -84,3 +90,7 @@ Shoorah helps you:
 > *“Your mental space deserves peace. Let Shoorah be your guide to a calmer, more fulfilled you.”*
 
 ---
+
+## ✅ License
+
+This project is licensed and protected. All rights reserved to Shoorah Inc.
